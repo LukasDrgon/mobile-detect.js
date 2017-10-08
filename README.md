@@ -118,7 +118,7 @@ You can easily extend it, e.g. `android`, `iphone`, etc.
 
     $ npm install mobile-detect --save
 
-## CDN - [jsDelivr](http://www.jsdelivr.com/#!mobile-detect.js)
+## CDN - [jsDelivr](http://www.jsdelivr.com/#!mobile-detect.js) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/mobile-detect/badge)](https://www.jsdelivr.com/package/npm/mobile-detect)
 
     <script src="//cdn.jsdelivr.net/npm/mobile-detect@1.3.7/mobile-detect.min.js"></script>
 
